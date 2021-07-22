@@ -11,7 +11,6 @@ S (To move Back) <br />
 A (To move Left) <br />
 D (To move Right) <br />
 OR <br />
-
 🠕 key (To move Forward) <br />
 🠗 key (To move Back) <br />
 🠔 key (To move Left) <br />
