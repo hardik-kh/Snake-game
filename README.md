@@ -21,6 +21,6 @@ In this game you have to score as much as you can <br />
 You are rewarded with 10 points as the snake eat each food object <br />
 Gradually the size of the sanke increse as it consumes the food and also <br />
 the speed of the sanke increse upto a maximum speed which makes this game <br />
-more Intresting.
+more Intresting. 🐍
 
 
